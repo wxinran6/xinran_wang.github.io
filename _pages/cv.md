@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Candidate in Robotics, Dyson School of Design Engineering, Imperial College London, 2020-now
+* M.S. in Computer Science, University of Birmingham, 2019-2020
+* B.S. in Mechanical Engineering, Virginia Tech, 2014-2018
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Teaching Assistant at Imperial College London
+  * (Gizmo: Phyiscal Computing Module), Spring Term 2021, Autumn Term 2021, Spring Term 2022 and Autumn Term 2023
+  * (Robotics Module), Autumn Term 2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Undergraduate Researcher
+  * Robotics and Mechatronics Lab at Virginia Tech from Apr 2017 to Dec 2018.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Skills
+  * Proficient in Java, Python, C++ and Matlab
+* Software
+  * ADAMS view, ABAQUS Finite Element Analysis
+  * Robot Operating System(ROS), Gazebo
+  * Solidworks
+  * Unity and Unreal Engine for Simulation
 
 Publications
 ======
@@ -42,18 +43,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
