@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Robotics, Dyson School of Design Engineering, Imperial College London, 2020-now
-* M.S. in Computer Science, University of Birmingham, 2019-2020
-* B.S. in Mechanical Engineering, Virginia Tech, 2014-2018
+* Ph.D Candidate in Robotics, Dyson School of Design Engineering, Imperial College London, UK, 2020-now
+* M.S. in Computer Science, University of Birmingham, UK, 2019-2020
+* B.S. in Mechanical Engineering, Virginia Tech, USA, 2014-2018
 
 
 
