@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: https://wxinran6.github.io/xinran_wang.github.io/sitemap/
+permalink: /sitemap/
 author_profile: true
 ---
 

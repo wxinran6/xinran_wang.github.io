@@ -3,7 +3,7 @@ title: "Design and analysis of a variable inertia spatial robotic tail for dynam
 collection: publications
 permalink: /publication/Dynamic_tail
 excerpt: 'This paper presents the design of a four degree-of-freedom (DoF) spatial tail and demonstrates the dynamic stabilization of a bipedal robotic platform through a hardware-in-loop simulation.'
-date: April 2020
+date: October 2020
 venue: 'Biomimetics'
 paperurl: 'https://www.mdpi.com/2313-7673/5/4/55f'
 citation: 'Xinran Wang, Hailin Ren, Anil Kumar, and Pinhas Ben-Tzvi. "Design and analysis of a variable inertia spatial robotic tail for dynamic stabilization." Biomimetics 5, no. 4 (2020): 55. '
