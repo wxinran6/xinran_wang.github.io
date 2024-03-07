@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Cossrat_modeling
 excerpt: 'This paper introduces a Cossrat modeling for a soft continuum robot with Self-Controllable Variable Curvature, analysis and validation the mathmatical model. The results are validated against real experiments'
 date: April 2024
-venue: 'Submitted to 7th IEEE International Conference on Soft Robotics'
+venue: 'Accepted to 7th IEEE International Conference on Soft Robotics'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Xinran Wang and Nicolas Rojas. “ Cossrat Rod Modeling and Validation for a Soft Continuum Robot with Self-Controllable Variable Curvature”, 7th IEEE International Conference on Soft Robotics, Submitted in November 2023.'
 ---
